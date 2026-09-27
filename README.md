@@ -141,7 +141,7 @@ The internship provided an opportunity to apply academic knowledge in GIS, remot
 
 ## Acknowledgements
 
-Special thanks to ST2I Groupe Studi and to Mr. Hatem Ben Hassine for the guidance and support throughout this internship.
+Special thanks to **ST2I Groupe Studi** and to **Mr. Hatem Ben Hassine** for the guidance and support throughout this internship.
 
 Thanks also to Jamila Abidi for the collaboration and for sharing this experience throughout the project.
 
