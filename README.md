@@ -1,4 +1,4 @@
-# UrbaSustain — Agricultural & Urban Monitoring in Sousse
+# UrbaSustain : Agricultural & Urban Monitoring in Sousse
 
 An end-to-end geospatial intelligence project for monitoring agricultural land change and urban expansion in the Sousse Governorate, Tunisia, using Sentinel-2 satellite imagery, GIS, remote sensing, and machine learning.
 
