@@ -26,6 +26,7 @@ The main objectives of the project are to:
 
 # Project Workflow
 
+```text
 Sentinel-2 Imagery
         │
         ▼
@@ -34,25 +35,23 @@ Data Preprocessing
         ▼
 Spectral & Temporal Features
         │
-        ├───────────────┐
-        ▼               ▼
-Agricultural        Urban
-Classification      Classification
-        │               │
-        └───────┬───────┘
-                ▼
-        Change Detection
-                │
-                ▼
-     Urban Expansion Analysis
-                │
-                ▼
-      Spatial / Land Pressure
-             Analysis
-                │
-                ▼
-          UrbaSustain
-           Dashboard
+        ├──────────────────────────┐
+        ▼                          ▼
+Agricultural Classification   Urban Classification
+        │                          │
+        └──────────────┬───────────┘
+                       ▼
+                Change Detection
+                       │
+                       ▼
+             Urban Expansion Analysis
+                       │
+                       ▼
+              Spatial / Land Pressure
+                       │
+                       ▼
+                UrbaSustain Dashboard
+```
 
 # Technologies
 
