@@ -16,7 +16,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 Agricultural land and urban areas are constantly evolving, making continuous monitoring essential for sustainable land-use planning.
 
@@ -26,7 +26,7 @@ The project combines remote sensing analysis, geospatial processing, machine lea
 
 The final results are integrated into UrbaSustain, an interactive geospatial dashboard designed to make the generated analyses and maps accessible through a single interface.
 
-## 🧩 Main Components
+##  Main Components
 
 | Component | Purpose |
 |---|---|
@@ -36,7 +36,7 @@ The final results are integrated into UrbaSustain, an interactive geospatial das
 | 📈 **Urban Expansion Suitability** | Machine learning was also used to investigate the spatial characteristics associated with urban expansion and identify areas with higher expansion suitability |
 | 🗺️ **UrbaSustain Dashboard** | The different outputs are brought together in an interactive web-based geospatial platform, combining agricultural and urban analyses within a common cartographic environment |
 
-## ⚙️ Objectives
+##  Objectives
 
 The main objectives of the project are to:
 
@@ -48,7 +48,7 @@ The main objectives of the project are to:
 - 🔗 Analyze the relationship between agricultural change and urban growth
 - 🗺️ Provide interactive geospatial visualizations for decision support
 
-## 🏗️ Project Workflow
+##  Project Workflow
 
 ```mermaid
 flowchart TD
@@ -63,7 +63,7 @@ flowchart TD
     H --> I[UrbaSustain Dashboard]
 ```
 
-## 🛠️ Technologies
+##  Technologies
 
 <table>
 <tr>
@@ -97,7 +97,7 @@ flowchart TD
 </tr>
 </table>
 
-## 🗺️ UrbaSustain Dashboard
+##  UrbaSustain Dashboard
 
 The different outputs are brought together in UrbaSustain, an interactive web-based geospatial platform.
 
@@ -115,7 +115,11 @@ The dashboard combines agricultural and urban analyses within a common cartograp
 
 Built with **React, Vite, Leaflet, Tailwind CSS, Chart.js**, and geospatial visualization libraries.
 
-## 📊 Key Results
+##  Demo
+
+https://github.com/user-attachments/assets/e310dec2-e1a7-4aca-8d69-bda9b885134b
+
+##  Key Results
 
 | Analysis | Result |
 |---|---|
@@ -126,25 +130,25 @@ Built with **React, Vite, Leaflet, Tailwind CSS, Chart.js**, and geospatial visu
 
 These results demonstrate the potential of combining satellite imagery, machine learning, and GIS for large-scale land monitoring.
 
-## 📁 Data
+##  Data
 
 Due to data size, licensing, and institutional restrictions, the original datasets are **not included** in this repository.
 
 The repository instead provides the processing workflows, scripts, documentation, and reproducibility guidelines required to understand and reproduce the methodology with appropriate datasets.
 
-## 🏢 Internship Context
+##  Internship Context
 
 This project was developed during my summer internship at **ST2I Groupe Studi**.
 
 The internship provided an opportunity to apply academic knowledge in GIS, remote sensing, machine learning, and geospatial analysis to a real-world environmental and urban planning problem.
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 Special thanks to **ST2I Groupe Studi** and to **Mr. Hatem Ben Hassine** for the guidance and support throughout this internship.
 
 Thanks also to **Jamila Abidi** for the collaboration and for sharing this experience throughout the project.
 
-## ✍️ Author
+##  Author
 
 **Farah Ben Choug**
 *Engineering Student | GIS | Remote Sensing | Machine Learning | Geospatial AI*
